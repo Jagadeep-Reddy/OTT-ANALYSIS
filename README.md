@@ -90,5 +90,4 @@ jupyter notebook
 
 Navigate to OTT_Data_Analysis_and_Linear_Regression_Model_1.ipynb and run the cells sequentially.
 
-7. License
-This project is licensed under the MIT License.
+
